@@ -1104,3 +1104,13 @@ footer {
   .btn-large, .btn-outline { width: 100%; text-align: center; }
   .hero-stats { gap: 12px; }
 }
+
+/* Forçar seções uma embaixo da outra */
+#servicos, #portfolio {
+    display: block !important;
+    width: 100% !important;
+}
+
+.container {
+    display: block !important;
+}
