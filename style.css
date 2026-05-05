@@ -1129,3 +1129,14 @@ footer {
   display: block;
   width: 100%;
 }
+
+#servicos, #portfolio {
+  display: block !important;
+  width: 100% !important;
+  float: none !important;
+  clear: both !important;
+}
+
+.main-content {
+  display: block !important;
+}
