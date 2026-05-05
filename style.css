@@ -50,6 +50,9 @@ em { font-style: normal; color: var(--gold); }
 
 /* ===== UTILITIES ===== */
 .container {
+    display: flex;
+    flex-direction: column;
+    gap: 50px; 
   max-width: var(--max-w);
   margin: 0 auto;
   padding: 0 24px;
