@@ -1118,15 +1118,14 @@ footer {
     display: block !important;
 }
 
-/* Isso vai quebrar a linha e colocar um embaixo do outro */
-#servicos, #portfolio {
-    display: block !important;
-    width: 100% !important;
-    float: none !important;
-    clear: both !important;
+
+#servicos {
+  display: block;
+  width: 100%;
+  margin-bottom: 60px;
 }
 
-/* Isso remove qualquer comando de ‘ficar ao lado’ do pai */
-main, .main-content, #servicosparent { 
-    display: block !important;
+#diferenciais {
+  display: block;
+  width: 100%;
 }
