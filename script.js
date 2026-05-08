@@ -4,7 +4,7 @@
 
 // ===== CONFIGURAÇÃO — EDITE AQUI =====
 const CONFIG = {
-  whatsapp: "5548991566507", // ← Coloque seu número aqui (com DDI + DDD, sem espaços)
+  whatsapp: "5548991655607", // ← Coloque seu número aqui (com DDI + DDD, sem espaços)
   mensagemPadrao: "Olá! Vi seu site e gostaria de solicitar um orçamento para o meu veículo.",
 };
 
