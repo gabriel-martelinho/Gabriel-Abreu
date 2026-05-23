@@ -680,6 +680,11 @@ nav a:hover::after { width: 100%; }
   margin-bottom: 48px;
 }
 
+.portfolio-cta {
+  grid-column: 2;
+  grid-row: 1 / 4;
+}
+
 .portfolio-item {}
 
 .portfolio-card {
