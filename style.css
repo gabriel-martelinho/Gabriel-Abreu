@@ -671,8 +671,9 @@ nav a:hover::after { width: 100%; }
 #portfolio {
   padding: 100px 0;
   background: var(--dark-2);
+  max-width: 100%;
+  width: 100%;
 }
-
 .portfolio-grid {
   display: grid;
   grid-template-columns: 1fr;
